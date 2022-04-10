@@ -130,8 +130,8 @@ li > a{
 } */
 .Container1{
     background-color: #1f2937;
-    width:100%;
-    height: 100%;
+    /* width:100%;
+    height: 100%; */
     
     display: flex;
     margin-bottom: -19px;
@@ -189,8 +189,8 @@ li > a{
 .text{
     font-size: 30px;
     font-weight: 800px;
-    margin: 30px 450px;
-    width: 150px;
+    margin: 30px 350px;
+    flex-basis: 40px;
     /* margin: 30px 150px; */
     color: white;
     white-space: nowrap;
@@ -206,7 +206,8 @@ li > a{
     /* flex: 1;  */
     /* width: 100%; */
     /* margin: 20px 0; */
-    margin:2% 7%;
+    margin:2% 0%;
+    flex-basis: 100%;
     
     
 }
