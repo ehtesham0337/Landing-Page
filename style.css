@@ -179,10 +179,10 @@ li > a{
 }
 
 
-.home{
+/* .home{
     display: flex;
-    /* margin: 20px 200px; */
-}
+     margin: 20px 200px; 
+} */
 
 .text{
     font-size: 30px;
