@@ -200,15 +200,15 @@ li > a{
 
 .image{
     /* flex: 1;  */
-    width: 100%;
+    /* width: 100%; */
     
 }
 
 .image > img{
   
     /* width: 300px; */
-    height: 95%;
-    margin: 10px 0;
+    /* height: 95%;
+    margin: 10px 0; */
     /* margin: 6px 10px; */
     
     /* object-fit:fill; */
