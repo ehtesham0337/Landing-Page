@@ -187,7 +187,7 @@ li > a{
 .text{
     font-size: 30px;
     font-weight: 800px;
-    margin: 30px 150px;
+    /* margin: 30px 150px; */
     color: white;
     
     /* justify-content: center;
