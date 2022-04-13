@@ -181,6 +181,10 @@ li > a{
 
 .home{
     display: flex;
+    width :60%;
+    align-items: center;
+    margin-inline: auto;
+
     /* margin: 20px 200px; */
 }
 
@@ -200,18 +204,19 @@ li > a{
 
 .image{
     flex: 1; 
-    width: 100%;
+    padding-left: 80px;
+    
     
 }
 
 .image > img{
   
     width: 300px;
-    height: 95%;
-    margin: 10px 0;
-    /* margin: 6px 10px; */
     
-    /* object-fit:fill; */
+    margin: 15px 0;
+  
+    
+      
 }
 
 
